@@ -1,4 +1,4 @@
-# sms-activate review: SMS-MAN in Practice — Performance Metrics From Real Activation Sessions
+# [sms-activate review: SMS-MAN in Practice — Performance Metrics From Real Activation Sessions](https://sms-man.com/?ref=nima)
 
 ---
 
